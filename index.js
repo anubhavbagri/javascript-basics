@@ -225,6 +225,12 @@ createdElement2 = document.createElement('b');
 createdElement2.innerText = "This is a created bold";
 tn[0].replaceChild(createdElement2, createdElement);
 // removeChild(element); ---> removes an element
+// document.location; ---> shows the location
+// document.title; ---> shows the title of the web page
+// document.URL; ---> shows the IP of the web page
+// document.scripts; ---> shows the scripts of the html page
+// document.links; document.forms; document.images; document.domain;
+
 
 // Selecting using Query
 // sel = document.querySelector('.container')
@@ -278,9 +284,11 @@ logKaro = ()=>{
     console.log("I am your log")
 }
 // SetTimeout and setinterval
+// setTimeout(logKaro, 5000);
+// setInterval(logKaro, 2000);
 // clr = setTimeout(logKaro, 5000);
 // clr = setInterval(logKaro, 2000);
-// use clearInterval(clr)/clearTimeout(clr) to cancel setInterval/setTimeout
+// use clearInterval(clr)/clearTimeout(clr) to cancel/stop setInterval/setTimeout
 
 // JavaScript localStorage
 // localStorage.setItem('name', 'harry')
@@ -294,7 +302,7 @@ logKaro = ()=>{
 // jso = JSON.stringify(obj);
 // console.log(typeof jso)
 // console.log(jso)
-// parsed = JSON.parse(`{"name":"harry","length":1,"a":{"this":"that"}}`)
+// parsed = JSON.parse(`{"name":"harry","length":1,"a":{"this":"tha\\"t"}}`)
 // console.log(parsed);
 
 // Template literals - Backticks
