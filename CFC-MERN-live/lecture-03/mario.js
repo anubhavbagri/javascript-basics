@@ -22,7 +22,7 @@ class coin {
 class Game {
   constructor(herotype) {
     this.game_over = false;
-    if (herotype == "luigi") {
+    if (herotype === "luigi") {
       this.hero = new Luigi();
     } else {
       this.hero = new Mario();
@@ -30,6 +30,8 @@ class Game {
     this.lives = 3;
     this.coins = [];
 
-    for (let index = 0; index < 10; index += 1) {}
+    for (let index = 0; index < 10; index += 1) {
+      this.coins.push(new Coin(10));
+    }
   }
 }
