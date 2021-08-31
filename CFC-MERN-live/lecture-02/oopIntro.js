@@ -28,15 +28,33 @@ class Human {
     }
   };
 
+  // getName = function () {
+  //   return this.#name;
+  // };
+
   get name() {
+    // console.log("Someone tried fetching a name")
+    // return undefined;
     return this.#name;
+  }
+
+  set name(val) {
+    this.#name = val;
   }
 }
 
 let anubhav = new Human("Anubhav Bagri");
 let ravi = new Human("Ravi garg");
+
+anubhav.name = "New Anubhav";
+
+// console.log(anubhav.#name); //!unavailable outside
+// console.log(anubhav.getName()); //getter function works
+console.log(anubhav.name);
+
 ravi.accident();
-ravi.party();
 // anubhav.hands = 2;
-console.log(anubhav, ravi);
+ravi.party();
+// console.log(anubhav);
+// console.log(anubhav, ravi);
 console.log(Human.population);
