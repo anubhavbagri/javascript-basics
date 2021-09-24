@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <script>
+        // console.log("working");
+        let h = document.getElementById("heading");
+        console.log(h);
+    </script> -->
+</head>
+
+<body>
+    <div id="root"></div>
+    <h1 id="heading">I am so happy</h1>
+    <script>
+        let root = document.getElementById("root");
+        // console.log("working");
+        let h = document.getElementById("heading");
+
+        let handler = function () {
+            h.innerHTML = new Date();
+        };
+
+        setInterval(handler, 1000);
+        // h.innerHTML = "Change the world";
+        console.log(h);
+    </script>
+</body>
+
+</html>
