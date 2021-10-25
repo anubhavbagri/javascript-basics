@@ -4,6 +4,8 @@
 * [JavaScript quiz](https://docs.google.com/document/d/1DPQ2o4FKiIKa0CGOyaPoH9ei0IaYbr7dmnuSD5I7Evw/edit?usp=sharing)
 * [HackerRank 10 Days of JS](https://legend-spell-98e.notion.site/JavaScript-2e1f6c48d42643409948505a9fcec1c3)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Structured Javascript Info](https://javascript.info/)
+* [30 Day Vanilla JS Challenge](https://javascript30.com/)
 
 ## References
 
