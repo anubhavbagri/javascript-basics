@@ -6,6 +6,8 @@
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Structured Javascript Info](https://javascript.info/)
 * [30 Day Vanilla JS Challenge](https://javascript30.com/)
+* [JavaScript 20 Projects](https://github.com/zero-to-mastery/javascript20-projects)
+* [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React)
 
 ## References
 
