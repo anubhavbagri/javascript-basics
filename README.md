@@ -14,3 +14,4 @@
 * [CodeWithHarry](https://www.youtube.com/watch?v=hKB-YGF14SY)
 * [Coding Ninjas Full stack Web Development Course](https://www.codingninjas.com/courses/online-full-stack-node-js-web-dev-course)
 * [CodeForCause MERN Live](https://www.youtube.com/playlist?list=PLPgpaSV4EIAkUCyPklkS4DWXy9I2vPuE1)
+* [Async JS Crash Course - Traversy Media](https://www.youtube.com/watch?v=PoRJizFvM7s)
