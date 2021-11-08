@@ -1,0 +1,12 @@
+.container {
+    height: 600px;
+    width: 600px;
+    background-color: aqua;
+    display: grid;
+}
+
+.item {
+    height: 50px;
+    width: 50px;
+    background: linear-gradient(blue, white);
+}
