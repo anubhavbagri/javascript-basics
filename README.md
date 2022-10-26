@@ -8,6 +8,7 @@
 * [30 Day Vanilla JS Challenge](https://javascript30.com/)
 * [JavaScript 20 Projects](https://github.com/zero-to-mastery/javascript20-projects)
 * [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React)
+* [Free Resources all bunched together](https://free-for.dev/#/)
 
 ## References
 
